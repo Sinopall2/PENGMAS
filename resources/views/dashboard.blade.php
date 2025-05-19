@@ -40,7 +40,7 @@
 
     <div class="container mt-4">
         <div class="text-center mb-4">
-            <h3>JAGOAN UMKM</h3>
+            <h3>JAGOAN UMKM (coba aja)</h3>
             <p>Layanan yang berisi UMKM berkualitas khas desa Cikasungka</p>
         </div>
 
